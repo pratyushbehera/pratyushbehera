@@ -1,6 +1,6 @@
 ## Hi! I'm Pratyush :wave:
 
-### I am a full-stack-frontend developer and designer
+### I am a full-stack (frontend heavy) developer and designer
 
 - I develop web apps with quality, innovation and building useful products with a focus on the end user
 - I have broad interests in money management and analysis of financial instruments.
